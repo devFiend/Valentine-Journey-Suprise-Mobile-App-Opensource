@@ -1,50 +1,70 @@
-# Welcome to your Expo app 👋
+# 💖 Our Journey App — Valentine Edition
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+An open-source, cinematic mobile application designed as a digital scrapbook for couples to document their relationship milestones, memories, and shared moments — from the first meeting to forever.
 
-## Get started
+Perfect as a **Valentine’s Day gift** or a year-round memory journal for couples who want a beautiful digital space to celebrate their journey together.
 
-1. Install dependencies
+![App Preview](https://via.placeholder.com/800x400?text=Cinematic+App+UI+Preview)
 
-   ```bash
-   npm install
-   ```
+## ✨ Features
 
-2. Start the app
+- **Live Journey Counter:** A real-time timer counting every second spent together since a chosen start date.
+- **Cinematic "Our Story":** A vertical, snap-scrolling timeline with parallax animations and editorial-style typography.
+- **Digital Gallery:** A high-end photo reel with a "Polaroid" aesthetic for memorable moments.
+- **Immersive Audio:** Integrated background music player that loops seamlessly across tabs.
+- **Valentine Mode:** Romantic themes, animations, and UI accents perfect for Valentine celebrations and anniversaries.
+- **Light Mode UI:** A soft "Rose Gold & Porcelain" theme featuring ambient animated blobs and glassmorphism.
 
-   ```bash
-   npx expo start
-   ```
+## 🛠️ Tech Stack
 
-In the output, you'll find options to open the app in a
+- **Framework:** Expo (React Native)
+- **Animations:** React Native Reanimated
+- **Navigation:** Expo Router (File-based routing)
+- **Styling:** Custom StyleSheet with Linear Gradients
+- **Icons:** Lucide React Native
+- **Audio:** Expo AV / Expo Audio
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🚀 Developer Perspective
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+This project moves beyond generic templates and focuses on creating a cinematic storytelling experience through mobile UI. Key techniques used include:
 
-## Get a fresh project
+- **Scroll Interpolation:** Creates a "one-card-at-a-time" cinematic storytelling feel.
+- **Shared Animation Values:** Handles background animations smoothly without blocking UI performance.
+- **System Serif Typography:** Uses system fonts for an elegant editorial look without requiring external font files.
 
-When you're ready, run:
+## 📦 Installation & Deployment
+
+This project is open source and can be customized for personal use or extended into a production-ready memory journaling app.
+
+### 1. Clone the repository
 
 ```bash
-npm run reset-project
+git clone https://github.com/yourusername/love-journey-app.git
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### 2. Install dependencies
 
-## Learn more
+```bash
+npm install
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+### 3. Start the development server
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+npx expo start
+```
 
-## Join the community
+## 🤝 Contributing
 
-Join our community of developers creating universal apps.
+Contributions are welcome! Feel free to fork the project, submit improvements, or build new features such as:
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- Shared couple accounts
+- Cloud backup
+- Video memory support
+- Printable memory books
+- Timeline export features
+- Seasonal themes (Valentine, anniversaries, holidays)
+
+## 📄 License
+
+This project is released as open-source software under the MIT License. Feel free to use and modify it for personal or commercial projects.
