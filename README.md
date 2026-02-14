@@ -1,6 +1,6 @@
-# 💖 Our Journey App — Valentine Edition
+# 💖 Our Journey App: Opensource Valentine Edition
 
-An open-source, cinematic mobile application designed as a digital scrapbook for couples to document their relationship milestones, memories, and shared moments — from the first meeting to forever.
+An open-source, cinematic mobile application designed as a digital scrapbook for couples to document their relationship milestones, memories, and shared moments, from the first meeting to forever.
 
 Perfect as a **Valentine’s Day gift** or a year-round memory journal for couples who want a beautiful digital space to celebrate their journey together.
 
@@ -39,7 +39,7 @@ This project is open source and can be customized for personal use or extended i
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/love-journey-app.git
+git clone https://github.com/devfiend/love-journey-app.git
 ```
 
 ### 2. Install dependencies
